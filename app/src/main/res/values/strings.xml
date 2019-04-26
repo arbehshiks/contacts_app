@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ContactsPlus</string>
+    <string name="action_settings">Settings</string>
+    <string name="contacts_title">Contacts</string>
+
+    <string name="add_c_title">Add a new Contact</string>
+    <string name="add_c_name">Name</string>
+    <string name="add_c_surname">Surname</string>
+    <string name="add_c_phone_number">Phone number</string>
+    <string name="add_c_more_information">More information</string>
+    <string name="add_c_button">Add contact</string>
+</resources>
